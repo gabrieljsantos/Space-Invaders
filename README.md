@@ -1,6 +1,6 @@
 # Space Invaders - Alpha & Pixel Design Maker
 
-* aínda é uma versão rascunho, ainda falta pelo menos chegar em uma versão jogável e organizada.
+_(Ainda é uma versão rascunho, ainda falta pelo menos chegar em uma versão jogável e organizada)_
 
 _Um projeto em desenvolvimento, inspirado no clássico Space Invaders, implementado em Python com a biblioteca Pygame. O jogo apresenta aliens que se movem horizontalmente de um lado para o outro, atirando e evitando projéteis. A nave do jogador e a base do canhão são controladas pelo usuário para combater os aliens invasores._
 

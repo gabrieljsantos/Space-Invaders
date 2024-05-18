@@ -1,6 +1,8 @@
 # Space Invaders - Alpha & Pixel Design Maker
 
-_"Um projeto em desenvolvimento, inspirado no clássico Space Invaders, implementado em Python com a biblioteca Pygame. O jogo apresenta aliens que se movem horizontalmente de um lado para o outro, atirando e evitando projéteis. A nave do jogador e a base do canhão são controladas pelo usuário para combater os aliens invasores._
+_(Ainda é uma versão rascunho, ainda falta pelo menos chegar em uma versão jogável e organizada)_
+
+_Um projeto em desenvolvimento, inspirado no clássico Space Invaders, implementado em Python com a biblioteca Pygame. O jogo apresenta aliens que se movem horizontalmente de um lado para o outro, atirando e evitando projéteis. A nave do jogador e a base do canhão são controladas pelo usuário para combater os aliens invasores._
 
 _O código conta com funções que desenham elementos na tela, como 'draw_actor()', que renderiza diversos objetos como aliens, naves e projéteis. A função 'draw_grid()' desenha uma grade na tela, proporcionando uma experiência visual mais precisa que ajudou no desenvolvimento do jogo. Há também suporte para mudança de skin de personagens e animações de explosões._
 
@@ -12,4 +14,4 @@ _O Pixel Design Maker oferece uma grade visual para facilitar a manipulação de
 
 _A ferramenta também conta com a capacidade de carregar designs previamente salvos e exibir uma grade para guiar o posicionamento. Uma paleta intuitiva permite alternar entre pintura e borracha para facilitar o processo criativo. Um projeto em constante evolução para entusiastas da arte pixelada._
 
-_Se fazer alguma alteração, me contate, podemos trabalhar juntos."_
+_Se fazer alguma alteração, me contate, podemos trabalhar juntos._

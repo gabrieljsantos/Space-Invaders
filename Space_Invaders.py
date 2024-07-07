@@ -1,12 +1,13 @@
-from Setup_tela import *
+from Setup_Screen import *
 from Draw_Objects import *
 from Menu_File import *
 from Objects import *
 from Setup_Game import *
 
 import random
-import time
+import threading
 
+# Inicialização das variáveis globais
 running = True
 skin = -3
 skin2 = 0 
@@ -14,9 +15,13 @@ skin3 = 0
 move_x = 1
 moved_x = 0
 move_y = 0
+import random
+import time
+
 
 # Loop principal
 alien_generator()
+
 while True:
     for evento in pygame.event.get():
         if evento.type == pygame.QUIT:

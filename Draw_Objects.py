@@ -1,5 +1,5 @@
 # Importa configurações da tela e do jogo
-from Setup_tela import *
+from Setup_Screen import *
 from Setup_Game import *
 # Função para desenhar um ator na tela
 def draw_actor(draw_inf):
